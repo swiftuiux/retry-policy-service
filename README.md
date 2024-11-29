@@ -2,7 +2,7 @@
 
 The service creates sequence of the delays (nanoseconds) according to chosen strategy 
 
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Figor11191708%2Fretry-policy-service%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/igor11191708/retry-policy-service)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fretry-policy-service%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/retry-policy-service)
 
 There are two strategies
 
@@ -29,9 +29,13 @@ There are two strategies
 
 ```
 
+## SwiftUI example
+
+[example for retry service](https://github.com/swiftuiux/retry-policy-service-example)
+
 ## Packages using the package
 
-[Async http client](https://github.com/The-Igor/async-http-client)
+[Async http client](https://github.com/swiftuiux/async-http-client)
 
 ## How to use
 
@@ -80,11 +84,6 @@ struct ContentView: View {
     }
 }
 ```
-
-
-## SwiftUI example for the package
-
-[example for retry service](https://github.com/The-Igor/retry-policy-service-example)
 
 ## TODO:
 
